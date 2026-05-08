@@ -8,3 +8,9 @@
 # Python
 __pycache__/
 *.pyc
+
+# Résultats de simulation (reproductibles depuis le code)
+simulation_results.csv
+
+# Backup local, pas à versionner
+feedback_1timeseries.ipynb
